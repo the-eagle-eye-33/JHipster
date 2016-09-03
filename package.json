@@ -1,0 +1,20 @@
+{
+  "name": "jhipster",
+  "version": "1.0.0",
+  "description": "Learning Yeoman from new project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-eagle-eye-33/jhipster.git"
+  },
+  "keywords": [],
+  "author": "Ruby <ilovewrestling33@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-eagle-eye-33/jhipster/issues"
+  },
+  "homepage": "https://github.com/the-eagle-eye-33/jhipster#readme"
+}
